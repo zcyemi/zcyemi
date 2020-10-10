@@ -1,8 +1,8 @@
 ### Yemi
 
-<p align="center">
-<img style="display:inline-block" height="170" src="https://github-readme-stats.vercel.app/api?username=zcyemi&hide=contribs&count_private=true"/>
-<img style="display:inline-block" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcyemi&layout=compact&hide=html&count_private=true&langs_count=6"/>
+<p align="left">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zcyemi&hide=contribs&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcyemi&layout=compact&hide=html&count_private=true&langs_count=6"/>
 </p>
 
 #### 😀 About Me
