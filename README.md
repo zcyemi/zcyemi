@@ -12,7 +12,7 @@
 - Passionate about :heart: Computer Graphics / Rendering / Simulation.
 - The most frequently used languages: [ C#, TypeScript, Java, ObjC ].
 
-#### 🎨 My painting arkworks
+#### 🎨 My painting artworks
 
 <a href="https://artwork.yemi.me">
   <span>artworks.yemi.me</span>
