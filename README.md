@@ -28,6 +28,3 @@
 - 2018-09-13 [TS/JS中实现对象属性的双向绑定Two-way Binding in Javascript](https://yemi.me/2018/09/13/js-two-way-binding/)
 - [more...](https://yemi.me/archives/)
 
-#### ☕ Active Programming Stats
-
-![Yemi's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zcyemi)
