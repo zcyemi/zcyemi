@@ -7,8 +7,7 @@
 
 #### 😀 About Me
 
-- I'm a game developer 🎮.
-- Currently working on mobile gamedev toolchains and technique R&D at 🏝️[CoconutIsland Games](https://www.coconut.is/).
+- I'm a game developer 🎮, and currently study at ECNU.
 - Passionate about :heart: Computer Graphics / Rendering / Simulation.
 - The most frequently used languages: [ C#, TypeScript, Java, ObjC ].
 
