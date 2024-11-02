@@ -1,4 +1,4 @@
-### Yemi
+###
 
 <p align="left">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=zcyemi&hide=contribs&count_private=true"/>
